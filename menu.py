@@ -31,7 +31,7 @@ while True:
         print()
         menu()
     except ValueError:
-        print("Please enter a valid number for your option.")
+        print("Please enter a valid number for your option. Thank you.")
     
 
 print("Thanks for using this program. Goodbye!")
